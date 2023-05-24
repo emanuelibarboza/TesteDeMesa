@@ -1,0 +1,15 @@
+C:\TesteDeMesa\parte2\problema5\obj\Debug\net7.0\problema5.csproj.AssemblyReference.cache
+C:\TesteDeMesa\parte2\problema5\obj\Debug\net7.0\problema5.GeneratedMSBuildEditorConfig.editorconfig
+C:\TesteDeMesa\parte2\problema5\obj\Debug\net7.0\problema5.AssemblyInfoInputs.cache
+C:\TesteDeMesa\parte2\problema5\obj\Debug\net7.0\problema5.AssemblyInfo.cs
+C:\TesteDeMesa\parte2\problema5\obj\Debug\net7.0\problema5.csproj.CoreCompileInputs.cache
+C:\TesteDeMesa\parte2\problema5\bin\Debug\net7.0\problema5.exe
+C:\TesteDeMesa\parte2\problema5\bin\Debug\net7.0\problema5.deps.json
+C:\TesteDeMesa\parte2\problema5\bin\Debug\net7.0\problema5.runtimeconfig.json
+C:\TesteDeMesa\parte2\problema5\bin\Debug\net7.0\problema5.dll
+C:\TesteDeMesa\parte2\problema5\bin\Debug\net7.0\problema5.pdb
+C:\TesteDeMesa\parte2\problema5\obj\Debug\net7.0\problema5.dll
+C:\TesteDeMesa\parte2\problema5\obj\Debug\net7.0\refint\problema5.dll
+C:\TesteDeMesa\parte2\problema5\obj\Debug\net7.0\problema5.pdb
+C:\TesteDeMesa\parte2\problema5\obj\Debug\net7.0\problema5.genruntimeconfig.cache
+C:\TesteDeMesa\parte2\problema5\obj\Debug\net7.0\ref\problema5.dll
